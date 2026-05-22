@@ -153,6 +153,6 @@ Material changes to this policy are recorded in the Revision History table at th
 
 ## Contact
 
-Privacy inquiries: **adam@benaliaprice.com**
+Privacy inquiries: **adambenalia287@gmail.com**
 
 A response will be provided within 3 business days.

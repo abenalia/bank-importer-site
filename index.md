@@ -16,7 +16,7 @@ The application is a single-operator local utility — it runs on the operator's
 
 ## Contact
 
-For privacy or security inquiries: **adam@benaliaprice.com**
+For privacy or security inquiries: **adambenalia287@gmail.com**
 
 A response will be provided within 3 business days.
 

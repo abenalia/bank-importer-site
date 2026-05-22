@@ -50,7 +50,7 @@ This page summarizes the security posture of the `bank_importer` project for use
 
 ## Reporting a security issue
 
-If you believe you have found a security issue in `bank_importer`, please report it privately to **adam@benaliaprice.com**. Do not open a public issue.
+If you believe you have found a security issue in `bank_importer`, please report it privately to **adambenalia287@gmail.com**. Do not open a public issue.
 
 A response will be provided within 3 business days.
 
