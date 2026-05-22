@@ -1,0 +1,4 @@
+title: bank_importer
+description: Personal bank-transaction importer — reads exports from your bank or pulls data via Plaid, normalizes it, and appends to a Google Sheet.
+theme: jekyll-theme-minimal
+show_downloads: false
